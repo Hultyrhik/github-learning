@@ -1,0 +1,43 @@
+diff --git a/.gitignore b/.gitignore
+new file mode 100644
+index 0000000..9f4bfcc
+--- /dev/null
++++ b/.gitignore
+@@ -0,0 +1 @@
++ignoreMe.txt
+\ No newline at end of file
+diff --git a/characters.txt b/characters.txt
+index 0bbd6d1..900efce 100644
+--- a/characters.txt
++++ b/characters.txt
+@@ -1 +1,5 @@
+-He
+\ No newline at end of file
++
+++++++++++++++++++++++
++
++He
++She
+\ No newline at end of file
+diff --git a/myWork.txt b/myWork.txt
+index 57bb2c3..26c9925 100644
+--- a/myWork.txt
++++ b/myWork.txt
+@@ -1,3 +1,6 @@
++
+++++++++++++++++++++
++
+ To contact Project Gutenberg of Australia go to http://gutenberg.net.au
+ Further information on contacting Project Gutenberg, the
+ "legal small print" and other information about this eBook may be found
+diff --git a/source.txt b/source.txt
+index 3077a65..41db6ba 100644
+--- a/source.txt
++++ b/source.txt
+@@ -1,3 +1,6 @@
++
++++++++++++++++++
++
+ A Project Gutenberg of Australia eBook
+ 
+ Title:      The Great Gatsby
